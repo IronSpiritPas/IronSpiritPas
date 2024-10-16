@@ -1,0 +1,8 @@
+{
+    "detect_model": "C:\\Users\\U\\Desktop\\yolov10\\Chinese_license_plate_detection_recognition-main\\weights\\plate_detect.pt",
+    "rec_model": "C:\\Users\\U\\Desktop\\yolov10\\Chinese_license_plate_detection_recognition-main\\weights\\plate_rec_color.pth",
+    "yolo_model": "C:\\Users\\U\\Desktop\\yolov10\\yolov10-main\\yolov10n.pt",
+    "face_model": "C:\\Users\\U\\Desktop\\yolov10\\Chinese_license_plate_detection_recognition-main\\z\\facedata.pkl",
+    "is_color": true,
+    "output": "result"
+}
